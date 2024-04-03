@@ -39,7 +39,6 @@ public class SortByMerge {
         }
         return resultArray;
     }
-
     public static int[] sortByMerge(int[] m) {
         //проверка, что массив невырожденный
         if (m == null) return null;
